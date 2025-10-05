@@ -1,0 +1,1001 @@
+Location,TimeSlot,VehicleType,VehicleCount,AvgSpeed(kmph),Weather,AccidentsReported
+Mall Rd,Night,Truck,52,77,Foggy,1
+Industrial Area,Night,Bike,138,68,Windy,1
+Tech Park,Night,Car,118,40,Foggy,2
+Industrial Area,Night,Bike,188,65,Windy,1
+Industrial Area,Night,Truck,161,63,Rainy,1
+Airport Rd,Morning Peak,Car,161,40,Rainy,0
+Tech Park,Night,Truck,26,63,Sunny,0
+Tech Park,Morning Peak,Truck,142,30,Rainy,1
+Tech Park,Night,Bus,157,58,Rainy,0
+Industrial Area,Evening Peak,Car,30,23,Sunny,0
+Mall Rd,Afternoon,Bus,67,70,Foggy,1
+Tech Park,Morning Peak,Car,168,20,Windy,1
+Industrial Area,Night,Truck,119,47,Windy,1
+Airport Rd,Evening Peak,Truck,148,43,Foggy,1
+Mall Rd,Afternoon,Bike,189,54,Sunny,2
+Airport Rd,Morning Peak,Car,152,32,Foggy,2
+Mall Rd,Afternoon,Bus,144,66,Rainy,1
+Industrial Area,Evening Peak,Bike,37,53,Sunny,0
+Downtown,Morning Peak,Bike,60,30,Sunny,1
+Mall Rd,Afternoon,Bike,195,55,Sunny,1
+Airport Rd,Night,Bus,14,70,Windy,0
+Industrial Area,Morning Peak,Bike,14,36,Foggy,2
+Mall Rd,Afternoon,Bus,103,54,Sunny,1
+Downtown,Evening Peak,Bike,105,79,Sunny,1
+Downtown,Evening Peak,Bus,17,37,Sunny,2
+Tech Park,Morning Peak,Truck,73,59,Foggy,2
+Tech Park,Afternoon,Truck,147,41,Windy,0
+Airport Rd,Morning Peak,Truck,47,76,Rainy,2
+Mall Rd,Morning Peak,Truck,120,43,Windy,2
+Mall Rd,Afternoon,Truck,121,77,Sunny,2
+Tech Park,Afternoon,Bike,90,38,Windy,0
+Mall Rd,Night,Bike,145,56,Windy,2
+Mall Rd,Afternoon,Bike,113,58,Rainy,2
+Downtown,Evening Peak,Bus,162,40,Foggy,0
+Tech Park,Morning Peak,Bus,82,27,Foggy,2
+Industrial Area,Morning Peak,Bus,187,47,Windy,2
+Tech Park,Evening Peak,Bus,58,24,Windy,0
+Industrial Area,Afternoon,Truck,45,36,Foggy,1
+Downtown,Evening Peak,Truck,135,56,Foggy,0
+Airport Rd,Evening Peak,Truck,77,55,Rainy,2
+Mall Rd,Night,Car,87,73,Sunny,2
+Downtown,Evening Peak,Bike,114,38,Windy,2
+Mall Rd,Morning Peak,Bus,178,46,Foggy,0
+Airport Rd,Evening Peak,Bus,131,72,Windy,2
+Airport Rd,Morning Peak,Truck,128,53,Windy,2
+Downtown,Morning Peak,Bus,199,30,Foggy,0
+Airport Rd,Morning Peak,Bus,123,73,Rainy,1
+Industrial Area,Afternoon,Bike,19,64,Windy,1
+Airport Rd,Night,Truck,158,66,Rainy,2
+Mall Rd,Morning Peak,Bike,173,31,Foggy,0
+Mall Rd,Morning Peak,Car,149,73,Sunny,2
+Mall Rd,Afternoon,Car,100,40,Sunny,0
+Mall Rd,Morning Peak,Car,11,73,Windy,0
+Industrial Area,Evening Peak,Truck,127,30,Foggy,1
+Tech Park,Evening Peak,Bus,22,58,Rainy,1
+Downtown,Night,Truck,190,47,Windy,0
+Mall Rd,Morning Peak,Truck,169,24,Foggy,2
+Airport Rd,Afternoon,Bus,104,36,Foggy,1
+Mall Rd,Evening Peak,Bike,153,75,Rainy,2
+Airport Rd,Afternoon,Car,41,39,Windy,1
+Airport Rd,Afternoon,Bike,41,60,Foggy,1
+Mall Rd,Evening Peak,Car,133,65,Foggy,2
+Industrial Area,Afternoon,Truck,20,77,Foggy,1
+Airport Rd,Evening Peak,Car,19,31,Rainy,1
+Airport Rd,Afternoon,Truck,24,25,Windy,2
+Mall Rd,Evening Peak,Bike,26,36,Windy,1
+Airport Rd,Morning Peak,Truck,177,70,Windy,1
+Airport Rd,Night,Bike,155,38,Windy,1
+Mall Rd,Evening Peak,Bus,192,45,Sunny,2
+Mall Rd,Evening Peak,Bus,162,67,Sunny,0
+Downtown,Night,Bus,68,63,Windy,2
+Industrial Area,Evening Peak,Truck,87,63,Rainy,0
+Industrial Area,Evening Peak,Bus,133,71,Sunny,1
+Airport Rd,Afternoon,Car,123,51,Foggy,0
+Industrial Area,Night,Bike,31,25,Sunny,2
+Airport Rd,Morning Peak,Bike,167,74,Foggy,2
+Downtown,Evening Peak,Car,181,77,Windy,1
+Mall Rd,Night,Truck,41,55,Sunny,0
+Mall Rd,Afternoon,Truck,188,57,Rainy,1
+Mall Rd,Morning Peak,Bike,183,30,Sunny,1
+Industrial Area,Night,Bus,122,52,Sunny,2
+Downtown,Morning Peak,Truck,129,43,Sunny,0
+Industrial Area,Morning Peak,Truck,158,42,Windy,0
+Industrial Area,Morning Peak,Car,131,34,Rainy,0
+Downtown,Evening Peak,Car,41,46,Sunny,0
+Downtown,Evening Peak,Bus,128,30,Rainy,1
+Downtown,Afternoon,Truck,48,76,Windy,1
+Downtown,Afternoon,Truck,21,70,Foggy,2
+Mall Rd,Night,Car,184,69,Sunny,1
+Tech Park,Afternoon,Truck,27,36,Rainy,1
+Tech Park,Morning Peak,Bike,158,70,Rainy,2
+Downtown,Morning Peak,Car,150,72,Windy,2
+Tech Park,Evening Peak,Bus,158,33,Sunny,2
+Tech Park,Morning Peak,Car,135,46,Foggy,1
+Downtown,Night,Truck,145,37,Rainy,1
+Tech Park,Morning Peak,Bus,55,47,Sunny,2
+Industrial Area,Morning Peak,Car,113,70,Foggy,2
+Airport Rd,Night,Bike,144,66,Rainy,2
+Airport Rd,Afternoon,Bike,160,66,Rainy,1
+Downtown,Afternoon,Car,95,23,Foggy,1
+Mall Rd,Night,Bike,159,26,Foggy,0
+Downtown,Evening Peak,Bike,98,64,Windy,1
+Mall Rd,Morning Peak,Bike,31,54,Sunny,1
+Airport Rd,Night,Bus,101,67,Sunny,1
+Downtown,Morning Peak,Bike,38,28,Windy,2
+Industrial Area,Evening Peak,Bike,22,27,Rainy,1
+Tech Park,Morning Peak,Bike,11,71,Foggy,2
+Mall Rd,Night,Bus,38,64,Foggy,0
+Tech Park,Morning Peak,Car,189,36,Foggy,0
+Tech Park,Afternoon,Truck,36,36,Rainy,2
+Downtown,Evening Peak,Bike,59,68,Foggy,2
+Tech Park,Evening Peak,Car,104,52,Foggy,2
+Industrial Area,Evening Peak,Bike,160,51,Windy,1
+Tech Park,Night,Bus,97,27,Rainy,0
+Downtown,Evening Peak,Car,53,38,Sunny,2
+Industrial Area,Afternoon,Bus,31,57,Windy,1
+Airport Rd,Night,Bike,180,22,Windy,0
+Tech Park,Afternoon,Bike,174,78,Sunny,1
+Downtown,Morning Peak,Bus,198,24,Windy,0
+Airport Rd,Morning Peak,Truck,106,32,Rainy,1
+Airport Rd,Morning Peak,Bus,193,66,Foggy,0
+Mall Rd,Morning Peak,Bike,12,65,Rainy,0
+Industrial Area,Afternoon,Bus,127,50,Sunny,1
+Tech Park,Night,Truck,28,74,Sunny,2
+Downtown,Night,Bus,32,35,Windy,0
+Mall Rd,Evening Peak,Truck,166,69,Rainy,2
+Industrial Area,Afternoon,Truck,39,51,Rainy,1
+Mall Rd,Morning Peak,Bus,48,41,Sunny,2
+Industrial Area,Afternoon,Bus,117,48,Rainy,2
+Industrial Area,Evening Peak,Car,120,41,Sunny,2
+Tech Park,Evening Peak,Bike,34,62,Rainy,2
+Industrial Area,Afternoon,Truck,137,22,Rainy,2
+Mall Rd,Afternoon,Car,120,73,Rainy,0
+Industrial Area,Afternoon,Bus,145,29,Sunny,0
+Tech Park,Night,Bike,115,61,Windy,0
+Tech Park,Morning Peak,Car,195,40,Rainy,1
+Mall Rd,Afternoon,Truck,153,35,Sunny,2
+Airport Rd,Afternoon,Car,81,31,Sunny,0
+Airport Rd,Afternoon,Truck,138,21,Rainy,1
+Industrial Area,Evening Peak,Bus,117,60,Rainy,0
+Downtown,Evening Peak,Bike,14,43,Windy,0
+Industrial Area,Night,Bike,12,54,Sunny,2
+Mall Rd,Morning Peak,Bike,141,75,Sunny,1
+Mall Rd,Night,Bus,113,49,Foggy,2
+Mall Rd,Morning Peak,Truck,73,76,Sunny,2
+Mall Rd,Evening Peak,Bus,115,49,Windy,0
+Mall Rd,Evening Peak,Bike,107,66,Foggy,2
+Tech Park,Evening Peak,Bus,19,54,Foggy,1
+Airport Rd,Night,Bus,158,38,Foggy,2
+Mall Rd,Afternoon,Bus,137,69,Rainy,2
+Downtown,Afternoon,Truck,55,27,Rainy,2
+Downtown,Evening Peak,Car,164,45,Sunny,0
+Downtown,Afternoon,Car,75,68,Foggy,1
+Downtown,Afternoon,Bus,178,59,Windy,0
+Tech Park,Night,Car,121,26,Rainy,0
+Downtown,Morning Peak,Car,22,49,Windy,0
+Mall Rd,Evening Peak,Bus,146,26,Windy,0
+Industrial Area,Evening Peak,Bus,173,22,Rainy,0
+Downtown,Night,Bike,95,20,Rainy,1
+Tech Park,Night,Car,99,55,Rainy,2
+Tech Park,Afternoon,Truck,67,44,Rainy,0
+Downtown,Evening Peak,Bus,63,56,Foggy,0
+Industrial Area,Morning Peak,Bike,21,20,Foggy,1
+Downtown,Night,Truck,23,34,Foggy,1
+Tech Park,Morning Peak,Car,130,56,Foggy,2
+Airport Rd,Morning Peak,Bike,171,32,Sunny,1
+Mall Rd,Evening Peak,Bus,190,59,Foggy,2
+Tech Park,Evening Peak,Truck,130,27,Rainy,0
+Downtown,Night,Bus,29,24,Windy,0
+Mall Rd,Evening Peak,Car,84,79,Foggy,2
+Downtown,Evening Peak,Truck,153,28,Sunny,1
+Downtown,Evening Peak,Car,79,20,Rainy,2
+Airport Rd,Morning Peak,Car,65,55,Windy,1
+Mall Rd,Night,Bike,110,54,Windy,0
+Mall Rd,Afternoon,Bus,195,21,Foggy,1
+Airport Rd,Morning Peak,Truck,141,59,Windy,2
+Tech Park,Evening Peak,Car,120,42,Foggy,2
+Downtown,Morning Peak,Car,134,28,Foggy,0
+Industrial Area,Evening Peak,Truck,141,53,Rainy,1
+Downtown,Evening Peak,Car,29,65,Rainy,1
+Downtown,Morning Peak,Bike,147,33,Sunny,1
+Tech Park,Night,Bike,33,23,Rainy,0
+Downtown,Evening Peak,Bike,163,49,Rainy,1
+Airport Rd,Night,Bike,46,50,Foggy,2
+Airport Rd,Afternoon,Car,63,57,Rainy,1
+Mall Rd,Evening Peak,Truck,112,30,Foggy,0
+Industrial Area,Night,Truck,158,54,Foggy,1
+Downtown,Night,Truck,47,27,Rainy,1
+Downtown,Afternoon,Truck,183,22,Sunny,2
+Tech Park,Night,Bus,13,33,Sunny,1
+Airport Rd,Night,Truck,197,79,Windy,2
+Industrial Area,Afternoon,Bus,66,32,Windy,2
+Mall Rd,Evening Peak,Bus,182,64,Rainy,0
+Airport Rd,Night,Bike,29,51,Sunny,2
+Mall Rd,Night,Bus,26,53,Foggy,2
+Tech Park,Night,Car,128,64,Windy,0
+Tech Park,Morning Peak,Bus,80,38,Foggy,2
+Downtown,Afternoon,Bike,13,78,Windy,0
+Industrial Area,Morning Peak,Bus,23,57,Rainy,1
+Mall Rd,Afternoon,Car,12,35,Sunny,0
+Airport Rd,Evening Peak,Car,89,21,Windy,2
+Tech Park,Evening Peak,Car,195,59,Sunny,0
+Downtown,Night,Bike,64,36,Foggy,2
+Downtown,Afternoon,Bike,141,74,Rainy,1
+Mall Rd,Evening Peak,Truck,129,53,Sunny,0
+Tech Park,Afternoon,Bike,33,61,Rainy,1
+Industrial Area,Evening Peak,Car,171,79,Sunny,2
+Tech Park,Morning Peak,Car,167,35,Foggy,2
+Mall Rd,Evening Peak,Bike,91,57,Foggy,1
+Mall Rd,Morning Peak,Bus,156,79,Rainy,0
+Tech Park,Evening Peak,Bike,168,21,Foggy,0
+Mall Rd,Night,Bike,197,21,Windy,2
+Tech Park,Morning Peak,Car,69,45,Sunny,1
+Airport Rd,Evening Peak,Truck,156,32,Foggy,1
+Tech Park,Night,Car,58,75,Windy,0
+Tech Park,Morning Peak,Truck,72,66,Rainy,0
+Mall Rd,Night,Car,119,50,Windy,0
+Mall Rd,Afternoon,Bike,159,79,Rainy,1
+Downtown,Afternoon,Car,161,53,Rainy,0
+Downtown,Morning Peak,Car,118,58,Sunny,0
+Airport Rd,Evening Peak,Car,85,22,Sunny,2
+Downtown,Morning Peak,Bike,39,27,Windy,0
+Tech Park,Night,Bike,67,42,Sunny,0
+Mall Rd,Evening Peak,Bike,126,33,Sunny,1
+Downtown,Afternoon,Bike,168,75,Sunny,1
+Downtown,Evening Peak,Truck,109,74,Windy,2
+Airport Rd,Afternoon,Truck,28,46,Foggy,0
+Airport Rd,Evening Peak,Bus,185,73,Sunny,2
+Tech Park,Evening Peak,Bike,182,48,Sunny,1
+Mall Rd,Evening Peak,Truck,103,58,Windy,2
+Airport Rd,Night,Car,192,72,Foggy,1
+Downtown,Night,Bike,122,58,Sunny,2
+Mall Rd,Morning Peak,Bus,192,20,Rainy,2
+Mall Rd,Morning Peak,Bus,155,36,Windy,0
+Downtown,Afternoon,Bus,72,60,Sunny,2
+Airport Rd,Night,Car,125,49,Sunny,0
+Downtown,Afternoon,Truck,122,72,Rainy,0
+Mall Rd,Morning Peak,Car,56,32,Rainy,0
+Industrial Area,Afternoon,Bike,66,40,Windy,0
+Industrial Area,Morning Peak,Bus,127,38,Windy,2
+Tech Park,Night,Car,54,72,Rainy,1
+Downtown,Evening Peak,Car,170,38,Windy,1
+Downtown,Night,Truck,154,76,Rainy,1
+Tech Park,Afternoon,Truck,13,44,Sunny,2
+Tech Park,Afternoon,Bus,157,41,Rainy,0
+Tech Park,Night,Car,56,50,Rainy,1
+Mall Rd,Night,Car,152,36,Foggy,2
+Downtown,Morning Peak,Truck,56,74,Rainy,0
+Mall Rd,Afternoon,Car,87,42,Rainy,1
+Tech Park,Afternoon,Car,133,51,Foggy,0
+Downtown,Night,Car,84,29,Windy,1
+Mall Rd,Evening Peak,Truck,112,29,Foggy,1
+Mall Rd,Afternoon,Bus,146,55,Sunny,1
+Tech Park,Evening Peak,Bike,99,27,Foggy,0
+Downtown,Night,Bus,153,73,Sunny,2
+Tech Park,Night,Bike,78,71,Windy,0
+Downtown,Morning Peak,Car,70,39,Foggy,1
+Industrial Area,Afternoon,Bus,147,51,Foggy,0
+Airport Rd,Evening Peak,Bike,59,69,Windy,2
+Airport Rd,Morning Peak,Truck,12,33,Sunny,0
+Airport Rd,Afternoon,Truck,116,69,Foggy,2
+Tech Park,Morning Peak,Bus,122,47,Sunny,2
+Industrial Area,Night,Bus,103,65,Foggy,0
+Downtown,Afternoon,Car,127,71,Rainy,1
+Mall Rd,Morning Peak,Bus,90,72,Foggy,2
+Downtown,Morning Peak,Car,118,43,Windy,0
+Mall Rd,Evening Peak,Car,60,34,Windy,2
+Downtown,Morning Peak,Truck,156,41,Sunny,1
+Industrial Area,Afternoon,Truck,179,49,Foggy,0
+Mall Rd,Afternoon,Bike,44,23,Sunny,0
+Tech Park,Evening Peak,Truck,55,32,Sunny,0
+Downtown,Afternoon,Truck,163,78,Rainy,1
+Downtown,Night,Bus,78,42,Rainy,2
+Mall Rd,Afternoon,Truck,102,27,Windy,0
+Tech Park,Afternoon,Bike,73,37,Sunny,2
+Tech Park,Morning Peak,Bus,174,31,Windy,2
+Industrial Area,Morning Peak,Bike,58,74,Foggy,1
+Tech Park,Afternoon,Truck,158,50,Sunny,0
+Tech Park,Evening Peak,Bike,83,33,Sunny,2
+Tech Park,Morning Peak,Bus,14,53,Foggy,0
+Airport Rd,Evening Peak,Car,109,37,Foggy,0
+Industrial Area,Afternoon,Bike,79,75,Windy,1
+Downtown,Afternoon,Bike,99,53,Windy,0
+Mall Rd,Night,Bus,13,30,Foggy,0
+Downtown,Morning Peak,Bus,135,60,Windy,2
+Industrial Area,Afternoon,Bike,48,31,Foggy,1
+Mall Rd,Night,Truck,172,68,Sunny,0
+Industrial Area,Morning Peak,Bike,138,34,Sunny,2
+Tech Park,Afternoon,Bus,33,76,Rainy,1
+Mall Rd,Afternoon,Car,66,50,Sunny,1
+Tech Park,Morning Peak,Car,109,68,Foggy,2
+Downtown,Morning Peak,Truck,79,77,Windy,2
+Downtown,Morning Peak,Bike,50,48,Rainy,2
+Mall Rd,Afternoon,Car,191,45,Windy,2
+Mall Rd,Afternoon,Bike,183,37,Foggy,2
+Industrial Area,Night,Bus,69,51,Sunny,0
+Industrial Area,Evening Peak,Car,117,41,Rainy,0
+Tech Park,Morning Peak,Truck,197,57,Foggy,1
+Mall Rd,Afternoon,Bus,66,36,Rainy,0
+Downtown,Afternoon,Truck,40,42,Rainy,0
+Industrial Area,Morning Peak,Bus,93,43,Sunny,0
+Industrial Area,Evening Peak,Car,161,69,Foggy,2
+Downtown,Morning Peak,Truck,45,27,Windy,1
+Industrial Area,Evening Peak,Truck,167,60,Rainy,1
+Tech Park,Afternoon,Bus,161,25,Rainy,1
+Mall Rd,Evening Peak,Truck,117,24,Windy,1
+Downtown,Night,Bus,115,63,Foggy,0
+Mall Rd,Afternoon,Bus,167,76,Rainy,0
+Industrial Area,Night,Bus,95,48,Rainy,2
+Industrial Area,Morning Peak,Bus,144,47,Rainy,1
+Downtown,Morning Peak,Car,172,30,Foggy,0
+Tech Park,Morning Peak,Bus,192,76,Foggy,0
+Airport Rd,Evening Peak,Bike,23,20,Windy,2
+Downtown,Afternoon,Truck,129,62,Foggy,2
+Airport Rd,Morning Peak,Bike,147,38,Foggy,2
+Airport Rd,Morning Peak,Car,89,28,Sunny,0
+Tech Park,Afternoon,Bike,153,46,Windy,0
+Airport Rd,Morning Peak,Truck,191,53,Rainy,2
+Airport Rd,Night,Bike,115,63,Foggy,1
+Tech Park,Afternoon,Car,79,23,Rainy,2
+Airport Rd,Afternoon,Bus,53,55,Rainy,2
+Airport Rd,Afternoon,Bike,82,37,Sunny,2
+Airport Rd,Night,Car,54,34,Foggy,2
+Downtown,Afternoon,Car,193,70,Windy,0
+Downtown,Night,Truck,116,32,Foggy,1
+Downtown,Afternoon,Truck,93,38,Rainy,2
+Tech Park,Evening Peak,Bike,91,68,Windy,1
+Industrial Area,Morning Peak,Bus,116,25,Foggy,1
+Airport Rd,Evening Peak,Car,194,67,Rainy,1
+Airport Rd,Morning Peak,Bike,30,75,Rainy,2
+Tech Park,Night,Car,187,31,Sunny,0
+Airport Rd,Evening Peak,Car,170,70,Sunny,2
+Downtown,Afternoon,Bus,16,56,Sunny,1
+Industrial Area,Morning Peak,Bus,79,36,Rainy,1
+Mall Rd,Morning Peak,Bike,136,77,Foggy,0
+Airport Rd,Evening Peak,Bus,152,42,Sunny,2
+Downtown,Night,Bus,169,45,Foggy,1
+Mall Rd,Evening Peak,Bike,157,48,Sunny,0
+Industrial Area,Night,Bus,152,52,Windy,1
+Mall Rd,Night,Truck,185,79,Windy,0
+Downtown,Morning Peak,Car,158,46,Sunny,0
+Mall Rd,Evening Peak,Car,179,44,Rainy,2
+Tech Park,Evening Peak,Car,163,75,Sunny,1
+Mall Rd,Night,Car,129,74,Sunny,2
+Airport Rd,Evening Peak,Bike,137,29,Rainy,1
+Airport Rd,Afternoon,Car,151,66,Windy,2
+Tech Park,Afternoon,Car,66,42,Foggy,1
+Downtown,Evening Peak,Car,174,40,Sunny,2
+Airport Rd,Evening Peak,Car,67,40,Rainy,0
+Industrial Area,Night,Truck,30,62,Sunny,1
+Airport Rd,Afternoon,Car,91,32,Rainy,1
+Airport Rd,Afternoon,Truck,78,56,Foggy,0
+Downtown,Morning Peak,Bike,140,52,Foggy,2
+Mall Rd,Night,Bus,96,43,Windy,1
+Airport Rd,Morning Peak,Car,174,63,Rainy,1
+Tech Park,Afternoon,Bus,58,30,Rainy,2
+Mall Rd,Night,Bus,156,36,Windy,0
+Industrial Area,Evening Peak,Bike,124,23,Windy,2
+Downtown,Night,Bus,98,66,Rainy,2
+Industrial Area,Evening Peak,Truck,94,44,Windy,2
+Mall Rd,Evening Peak,Bus,137,49,Foggy,1
+Mall Rd,Night,Bus,149,28,Sunny,0
+Mall Rd,Evening Peak,Bus,198,40,Foggy,0
+Industrial Area,Morning Peak,Car,178,39,Windy,2
+Mall Rd,Afternoon,Car,170,38,Rainy,1
+Industrial Area,Evening Peak,Truck,187,38,Rainy,2
+Mall Rd,Morning Peak,Truck,126,31,Foggy,1
+Tech Park,Evening Peak,Car,136,56,Rainy,1
+Mall Rd,Afternoon,Truck,80,61,Windy,1
+Industrial Area,Morning Peak,Car,95,36,Foggy,1
+Airport Rd,Afternoon,Bike,42,56,Rainy,0
+Mall Rd,Afternoon,Bus,90,73,Sunny,1
+Airport Rd,Morning Peak,Bus,161,67,Sunny,1
+Tech Park,Morning Peak,Truck,70,58,Windy,2
+Downtown,Morning Peak,Car,70,47,Rainy,2
+Tech Park,Night,Car,107,60,Windy,0
+Mall Rd,Morning Peak,Truck,37,54,Foggy,2
+Airport Rd,Morning Peak,Car,195,66,Sunny,1
+Airport Rd,Morning Peak,Bike,52,67,Foggy,2
+Industrial Area,Morning Peak,Bus,178,37,Rainy,0
+Airport Rd,Evening Peak,Truck,176,33,Windy,2
+Industrial Area,Night,Truck,95,54,Windy,2
+Downtown,Afternoon,Car,186,63,Windy,0
+Mall Rd,Morning Peak,Truck,26,60,Foggy,0
+Industrial Area,Evening Peak,Bike,107,79,Sunny,1
+Downtown,Evening Peak,Car,107,26,Foggy,2
+Airport Rd,Evening Peak,Car,74,60,Foggy,1
+Airport Rd,Afternoon,Car,83,32,Rainy,2
+Downtown,Morning Peak,Car,94,37,Rainy,2
+Airport Rd,Night,Bike,14,56,Rainy,1
+Downtown,Night,Car,11,32,Sunny,2
+Industrial Area,Evening Peak,Truck,31,55,Sunny,2
+Industrial Area,Afternoon,Bike,121,50,Rainy,2
+Downtown,Afternoon,Bus,66,21,Rainy,0
+Industrial Area,Afternoon,Bus,75,35,Sunny,1
+Industrial Area,Night,Truck,83,28,Windy,0
+Industrial Area,Evening Peak,Truck,107,28,Sunny,1
+Tech Park,Morning Peak,Bike,153,57,Sunny,1
+Mall Rd,Night,Bus,121,30,Sunny,2
+Airport Rd,Evening Peak,Bus,188,73,Rainy,1
+Tech Park,Evening Peak,Bus,134,75,Windy,0
+Industrial Area,Morning Peak,Bus,176,41,Sunny,0
+Downtown,Morning Peak,Bus,95,52,Rainy,0
+Industrial Area,Morning Peak,Car,85,55,Foggy,1
+Mall Rd,Afternoon,Truck,97,64,Foggy,0
+Industrial Area,Morning Peak,Car,177,42,Sunny,1
+Downtown,Evening Peak,Bus,47,64,Foggy,0
+Mall Rd,Morning Peak,Bike,197,64,Windy,0
+Industrial Area,Evening Peak,Bike,68,53,Foggy,1
+Mall Rd,Night,Bus,147,28,Foggy,0
+Airport Rd,Afternoon,Bus,108,43,Windy,2
+Airport Rd,Night,Bike,72,27,Sunny,1
+Industrial Area,Night,Car,58,26,Sunny,1
+Mall Rd,Evening Peak,Car,41,55,Windy,1
+Downtown,Night,Bus,144,37,Windy,2
+Industrial Area,Evening Peak,Car,30,22,Windy,1
+Airport Rd,Morning Peak,Bike,29,47,Foggy,0
+Airport Rd,Morning Peak,Car,163,25,Windy,0
+Industrial Area,Evening Peak,Bus,136,63,Rainy,0
+Mall Rd,Morning Peak,Bike,77,63,Foggy,1
+Airport Rd,Afternoon,Car,119,40,Sunny,0
+Mall Rd,Night,Truck,125,47,Sunny,1
+Airport Rd,Afternoon,Bike,152,59,Sunny,0
+Airport Rd,Night,Bike,129,73,Foggy,2
+Tech Park,Morning Peak,Truck,88,73,Rainy,2
+Airport Rd,Afternoon,Truck,125,20,Windy,2
+Downtown,Morning Peak,Bike,101,55,Windy,2
+Industrial Area,Night,Truck,23,40,Sunny,1
+Industrial Area,Evening Peak,Bus,164,79,Sunny,0
+Mall Rd,Evening Peak,Bus,134,62,Foggy,2
+Airport Rd,Afternoon,Bus,177,54,Rainy,1
+Downtown,Morning Peak,Bike,67,32,Windy,2
+Mall Rd,Morning Peak,Truck,37,76,Foggy,2
+Tech Park,Afternoon,Truck,35,68,Windy,1
+Mall Rd,Evening Peak,Car,122,73,Sunny,1
+Mall Rd,Night,Car,75,73,Windy,0
+Airport Rd,Afternoon,Truck,162,29,Rainy,0
+Tech Park,Night,Truck,140,72,Rainy,2
+Mall Rd,Evening Peak,Truck,53,63,Sunny,2
+Downtown,Morning Peak,Bike,106,66,Rainy,0
+Downtown,Evening Peak,Truck,51,72,Rainy,0
+Industrial Area,Afternoon,Car,15,29,Foggy,1
+Tech Park,Morning Peak,Bike,176,65,Windy,0
+Tech Park,Afternoon,Truck,189,32,Sunny,0
+Industrial Area,Afternoon,Car,32,56,Sunny,2
+Mall Rd,Evening Peak,Bike,98,57,Sunny,0
+Tech Park,Afternoon,Truck,132,43,Sunny,2
+Downtown,Evening Peak,Truck,187,21,Sunny,0
+Downtown,Morning Peak,Truck,180,41,Rainy,1
+Airport Rd,Evening Peak,Bike,156,36,Foggy,0
+Tech Park,Morning Peak,Car,60,55,Sunny,0
+Mall Rd,Evening Peak,Car,20,33,Foggy,0
+Industrial Area,Night,Bus,21,29,Foggy,2
+Industrial Area,Night,Truck,83,54,Rainy,1
+Mall Rd,Afternoon,Bus,17,44,Sunny,0
+Airport Rd,Evening Peak,Bus,161,22,Rainy,2
+Industrial Area,Evening Peak,Car,50,66,Sunny,1
+Tech Park,Morning Peak,Bike,173,57,Rainy,2
+Airport Rd,Afternoon,Bike,94,36,Foggy,2
+Tech Park,Evening Peak,Car,81,31,Sunny,1
+Downtown,Afternoon,Bike,64,73,Windy,0
+Airport Rd,Night,Bus,146,71,Foggy,2
+Industrial Area,Evening Peak,Truck,56,43,Windy,2
+Airport Rd,Evening Peak,Car,152,48,Foggy,0
+Airport Rd,Afternoon,Truck,185,62,Rainy,0
+Airport Rd,Evening Peak,Bike,113,44,Sunny,1
+Airport Rd,Afternoon,Truck,51,55,Foggy,1
+Tech Park,Evening Peak,Bike,69,77,Rainy,1
+Downtown,Morning Peak,Bike,21,79,Sunny,0
+Mall Rd,Afternoon,Bus,139,45,Sunny,2
+Airport Rd,Evening Peak,Bike,16,57,Foggy,2
+Industrial Area,Night,Bus,89,20,Sunny,1
+Airport Rd,Evening Peak,Bus,140,39,Foggy,0
+Industrial Area,Night,Bus,118,74,Sunny,2
+Tech Park,Night,Car,12,47,Windy,1
+Industrial Area,Morning Peak,Car,36,35,Rainy,2
+Mall Rd,Afternoon,Bike,123,66,Windy,2
+Downtown,Evening Peak,Bus,116,36,Foggy,0
+Industrial Area,Morning Peak,Car,49,59,Windy,0
+Industrial Area,Evening Peak,Bus,170,47,Foggy,2
+Downtown,Night,Truck,138,77,Sunny,1
+Mall Rd,Afternoon,Truck,17,31,Sunny,0
+Airport Rd,Evening Peak,Truck,110,46,Foggy,2
+Industrial Area,Evening Peak,Bike,169,73,Windy,0
+Downtown,Night,Bus,133,72,Sunny,0
+Tech Park,Evening Peak,Truck,185,61,Rainy,0
+Downtown,Evening Peak,Car,116,78,Sunny,2
+Tech Park,Night,Truck,110,66,Rainy,1
+Mall Rd,Morning Peak,Truck,13,49,Windy,1
+Airport Rd,Night,Truck,119,60,Rainy,1
+Downtown,Morning Peak,Bike,28,53,Rainy,0
+Industrial Area,Afternoon,Car,41,56,Rainy,2
+Mall Rd,Morning Peak,Bus,146,25,Rainy,0
+Downtown,Morning Peak,Car,21,26,Sunny,1
+Industrial Area,Afternoon,Bus,148,51,Rainy,1
+Downtown,Morning Peak,Bike,55,51,Sunny,2
+Tech Park,Night,Bike,128,72,Rainy,0
+Downtown,Morning Peak,Bike,25,44,Foggy,1
+Downtown,Afternoon,Bike,138,52,Windy,2
+Downtown,Night,Bus,72,74,Rainy,0
+Mall Rd,Afternoon,Truck,118,77,Foggy,0
+Downtown,Afternoon,Bus,128,26,Rainy,1
+Industrial Area,Evening Peak,Car,30,71,Rainy,1
+Tech Park,Evening Peak,Bike,167,76,Rainy,0
+Tech Park,Afternoon,Bike,22,31,Foggy,0
+Downtown,Afternoon,Car,171,35,Windy,1
+Mall Rd,Afternoon,Bus,13,35,Foggy,0
+Mall Rd,Evening Peak,Truck,165,62,Windy,1
+Industrial Area,Evening Peak,Truck,111,72,Rainy,0
+Downtown,Morning Peak,Car,68,55,Sunny,1
+Tech Park,Morning Peak,Truck,137,32,Rainy,2
+Mall Rd,Afternoon,Bus,36,26,Windy,1
+Downtown,Night,Bus,78,55,Foggy,1
+Mall Rd,Night,Car,34,66,Rainy,2
+Mall Rd,Evening Peak,Bus,140,70,Foggy,0
+Tech Park,Evening Peak,Bike,106,28,Foggy,2
+Airport Rd,Evening Peak,Car,34,51,Foggy,1
+Industrial Area,Afternoon,Bus,157,30,Rainy,0
+Industrial Area,Night,Car,171,27,Foggy,2
+Tech Park,Morning Peak,Truck,163,52,Foggy,0
+Mall Rd,Afternoon,Bus,135,42,Rainy,0
+Downtown,Morning Peak,Bike,142,44,Foggy,2
+Mall Rd,Morning Peak,Bus,198,75,Rainy,0
+Tech Park,Afternoon,Car,18,27,Windy,2
+Industrial Area,Morning Peak,Car,125,64,Windy,1
+Mall Rd,Night,Bus,187,41,Windy,0
+Industrial Area,Morning Peak,Bike,143,78,Foggy,1
+Downtown,Night,Bike,69,23,Sunny,1
+Industrial Area,Night,Bike,181,59,Sunny,0
+Industrial Area,Night,Car,130,22,Foggy,2
+Airport Rd,Evening Peak,Bus,148,48,Sunny,0
+Airport Rd,Morning Peak,Truck,184,60,Rainy,1
+Airport Rd,Afternoon,Car,117,48,Sunny,1
+Industrial Area,Afternoon,Bike,117,53,Foggy,2
+Tech Park,Morning Peak,Bus,140,53,Foggy,0
+Industrial Area,Evening Peak,Bike,85,47,Rainy,1
+Tech Park,Evening Peak,Truck,39,32,Windy,1
+Tech Park,Night,Bike,30,34,Foggy,1
+Airport Rd,Morning Peak,Bike,165,79,Rainy,2
+Mall Rd,Morning Peak,Truck,199,42,Sunny,1
+Downtown,Afternoon,Bus,170,63,Sunny,1
+Airport Rd,Morning Peak,Car,172,45,Rainy,0
+Airport Rd,Evening Peak,Bus,189,23,Rainy,0
+Mall Rd,Morning Peak,Truck,43,45,Foggy,1
+Downtown,Afternoon,Bike,50,59,Sunny,1
+Industrial Area,Night,Bus,60,28,Rainy,0
+Industrial Area,Afternoon,Car,184,74,Sunny,2
+Airport Rd,Afternoon,Truck,91,24,Rainy,2
+Downtown,Night,Bus,67,75,Sunny,2
+Airport Rd,Afternoon,Car,84,51,Windy,2
+Tech Park,Afternoon,Truck,194,39,Foggy,2
+Airport Rd,Morning Peak,Car,32,69,Sunny,2
+Airport Rd,Morning Peak,Truck,185,30,Windy,2
+Industrial Area,Night,Bike,137,34,Sunny,2
+Industrial Area,Morning Peak,Bus,159,51,Sunny,0
+Industrial Area,Morning Peak,Car,26,47,Windy,2
+Tech Park,Afternoon,Truck,78,41,Sunny,2
+Industrial Area,Evening Peak,Car,117,60,Sunny,2
+Downtown,Morning Peak,Car,148,36,Foggy,1
+Mall Rd,Evening Peak,Bus,103,78,Windy,0
+Downtown,Morning Peak,Bike,24,45,Windy,0
+Downtown,Morning Peak,Car,100,63,Rainy,0
+Industrial Area,Night,Truck,172,26,Sunny,2
+Mall Rd,Night,Truck,42,61,Foggy,2
+Mall Rd,Night,Bike,134,76,Sunny,1
+Mall Rd,Evening Peak,Truck,25,45,Sunny,0
+Tech Park,Afternoon,Bike,171,44,Rainy,2
+Industrial Area,Morning Peak,Truck,75,29,Sunny,0
+Mall Rd,Morning Peak,Bus,177,78,Foggy,1
+Tech Park,Morning Peak,Car,165,64,Foggy,1
+Airport Rd,Evening Peak,Bus,56,38,Rainy,1
+Airport Rd,Night,Car,176,30,Sunny,0
+Tech Park,Afternoon,Car,157,32,Foggy,2
+Tech Park,Evening Peak,Car,133,72,Sunny,2
+Industrial Area,Night,Bus,10,27,Sunny,1
+Industrial Area,Evening Peak,Car,96,59,Sunny,2
+Airport Rd,Afternoon,Bus,137,23,Rainy,1
+Mall Rd,Night,Bike,76,66,Sunny,0
+Airport Rd,Evening Peak,Truck,13,50,Foggy,1
+Mall Rd,Afternoon,Truck,195,47,Sunny,0
+Mall Rd,Morning Peak,Car,162,30,Foggy,1
+Industrial Area,Afternoon,Bus,56,62,Sunny,2
+Downtown,Morning Peak,Truck,47,20,Foggy,2
+Downtown,Evening Peak,Bus,152,68,Foggy,1
+Tech Park,Night,Bus,30,66,Sunny,2
+Industrial Area,Night,Car,66,71,Sunny,2
+Mall Rd,Evening Peak,Truck,126,57,Foggy,2
+Downtown,Night,Car,190,43,Windy,0
+Mall Rd,Night,Car,55,73,Rainy,2
+Downtown,Morning Peak,Truck,151,79,Windy,0
+Downtown,Evening Peak,Truck,154,76,Windy,1
+Downtown,Afternoon,Bike,48,66,Sunny,2
+Industrial Area,Morning Peak,Bike,146,50,Rainy,2
+Airport Rd,Evening Peak,Bus,108,60,Windy,2
+Mall Rd,Morning Peak,Truck,86,65,Sunny,1
+Industrial Area,Afternoon,Bike,124,69,Windy,0
+Industrial Area,Afternoon,Bus,143,45,Windy,0
+Industrial Area,Evening Peak,Bus,160,68,Sunny,2
+Industrial Area,Afternoon,Bus,196,69,Sunny,1
+Industrial Area,Morning Peak,Bike,100,24,Sunny,1
+Tech Park,Afternoon,Truck,107,39,Rainy,1
+Mall Rd,Morning Peak,Car,129,71,Windy,1
+Industrial Area,Morning Peak,Bus,55,60,Sunny,1
+Mall Rd,Afternoon,Bike,47,30,Foggy,0
+Tech Park,Evening Peak,Bike,151,75,Windy,0
+Tech Park,Night,Car,109,73,Foggy,0
+Mall Rd,Afternoon,Car,81,52,Rainy,2
+Downtown,Morning Peak,Bike,199,69,Sunny,1
+Airport Rd,Morning Peak,Truck,44,57,Foggy,2
+Downtown,Afternoon,Car,156,46,Rainy,1
+Downtown,Evening Peak,Bike,39,53,Sunny,0
+Downtown,Evening Peak,Car,87,34,Foggy,2
+Industrial Area,Morning Peak,Truck,93,51,Foggy,0
+Tech Park,Morning Peak,Bus,122,77,Rainy,1
+Downtown,Evening Peak,Car,34,40,Sunny,1
+Tech Park,Night,Truck,177,65,Sunny,1
+Mall Rd,Afternoon,Bike,97,24,Foggy,0
+Airport Rd,Morning Peak,Car,23,25,Foggy,1
+Mall Rd,Morning Peak,Car,163,57,Foggy,0
+Mall Rd,Evening Peak,Bike,111,41,Sunny,2
+Industrial Area,Afternoon,Bus,159,37,Rainy,1
+Airport Rd,Evening Peak,Bike,185,33,Rainy,1
+Mall Rd,Afternoon,Car,92,29,Sunny,1
+Mall Rd,Afternoon,Bike,119,65,Windy,2
+Airport Rd,Afternoon,Truck,188,32,Rainy,1
+Airport Rd,Morning Peak,Bike,140,50,Foggy,0
+Mall Rd,Night,Car,179,49,Windy,0
+Airport Rd,Evening Peak,Bike,28,22,Windy,1
+Mall Rd,Night,Bus,37,49,Rainy,1
+Mall Rd,Evening Peak,Bike,182,25,Windy,2
+Industrial Area,Afternoon,Bus,80,48,Windy,2
+Downtown,Morning Peak,Truck,72,27,Rainy,2
+Mall Rd,Night,Bus,82,63,Rainy,1
+Tech Park,Morning Peak,Bike,133,64,Windy,2
+Downtown,Evening Peak,Car,128,62,Foggy,2
+Downtown,Morning Peak,Bus,130,63,Sunny,0
+Downtown,Morning Peak,Truck,28,52,Windy,2
+Industrial Area,Night,Bus,184,36,Windy,0
+Mall Rd,Afternoon,Bus,151,67,Foggy,0
+Industrial Area,Morning Peak,Bus,129,30,Windy,2
+Mall Rd,Afternoon,Truck,175,32,Windy,0
+Industrial Area,Evening Peak,Bike,190,69,Sunny,1
+Industrial Area,Morning Peak,Bus,70,30,Sunny,1
+Tech Park,Night,Bus,173,50,Sunny,2
+Industrial Area,Evening Peak,Car,177,47,Rainy,1
+Airport Rd,Evening Peak,Truck,39,63,Rainy,0
+Tech Park,Night,Bus,18,25,Sunny,1
+Industrial Area,Morning Peak,Truck,73,60,Sunny,2
+Downtown,Morning Peak,Bus,170,35,Rainy,2
+Airport Rd,Evening Peak,Bike,129,23,Foggy,0
+Airport Rd,Morning Peak,Bike,61,54,Windy,2
+Airport Rd,Afternoon,Bus,98,79,Windy,1
+Tech Park,Night,Bike,151,67,Sunny,2
+Industrial Area,Afternoon,Bus,62,75,Foggy,0
+Industrial Area,Morning Peak,Bike,196,78,Rainy,2
+Downtown,Evening Peak,Car,87,45,Sunny,1
+Downtown,Night,Car,50,76,Foggy,0
+Airport Rd,Morning Peak,Car,77,31,Foggy,1
+Downtown,Morning Peak,Truck,17,30,Foggy,0
+Tech Park,Evening Peak,Truck,11,56,Rainy,2
+Industrial Area,Evening Peak,Car,114,44,Rainy,0
+Airport Rd,Afternoon,Truck,134,37,Windy,0
+Downtown,Night,Bike,119,38,Windy,2
+Tech Park,Night,Bus,95,42,Foggy,1
+Tech Park,Evening Peak,Bus,178,74,Foggy,2
+Downtown,Afternoon,Bus,129,57,Rainy,0
+Industrial Area,Night,Car,136,73,Windy,2
+Downtown,Evening Peak,Truck,192,37,Foggy,0
+Airport Rd,Morning Peak,Bike,25,45,Windy,2
+Downtown,Night,Bike,71,25,Windy,2
+Tech Park,Afternoon,Car,122,23,Foggy,1
+Downtown,Afternoon,Bike,185,63,Rainy,0
+Industrial Area,Afternoon,Bike,167,70,Foggy,1
+Mall Rd,Morning Peak,Bike,21,48,Foggy,0
+Downtown,Night,Bike,44,78,Windy,2
+Industrial Area,Night,Truck,20,53,Foggy,0
+Industrial Area,Morning Peak,Bike,73,36,Rainy,1
+Tech Park,Night,Bus,59,62,Foggy,1
+Industrial Area,Morning Peak,Car,158,62,Rainy,1
+Industrial Area,Morning Peak,Truck,78,72,Rainy,0
+Industrial Area,Morning Peak,Bike,57,35,Windy,1
+Industrial Area,Afternoon,Truck,29,21,Sunny,1
+Airport Rd,Night,Bike,110,53,Sunny,1
+Airport Rd,Morning Peak,Bus,181,74,Windy,2
+Tech Park,Night,Car,170,27,Foggy,2
+Downtown,Afternoon,Bike,198,32,Windy,0
+Industrial Area,Morning Peak,Bike,146,61,Rainy,0
+Downtown,Evening Peak,Bike,77,27,Sunny,1
+Downtown,Afternoon,Bike,44,49,Windy,2
+Tech Park,Evening Peak,Car,74,51,Foggy,1
+Industrial Area,Night,Car,17,55,Windy,1
+Industrial Area,Night,Bus,54,66,Sunny,2
+Mall Rd,Afternoon,Car,96,49,Windy,2
+Downtown,Night,Bike,184,20,Windy,2
+Downtown,Evening Peak,Bus,177,62,Sunny,0
+Airport Rd,Morning Peak,Bus,85,58,Rainy,0
+Mall Rd,Morning Peak,Bus,191,36,Rainy,1
+Airport Rd,Morning Peak,Bike,85,78,Sunny,0
+Airport Rd,Afternoon,Truck,183,39,Windy,2
+Airport Rd,Night,Bike,56,43,Sunny,2
+Tech Park,Evening Peak,Car,24,69,Rainy,0
+Tech Park,Night,Car,114,41,Foggy,1
+Airport Rd,Night,Bike,156,48,Windy,1
+Mall Rd,Night,Bike,35,41,Rainy,0
+Downtown,Morning Peak,Bus,61,63,Windy,1
+Mall Rd,Evening Peak,Bike,102,28,Sunny,1
+Industrial Area,Evening Peak,Bus,159,56,Foggy,1
+Tech Park,Night,Car,30,29,Sunny,2
+Downtown,Morning Peak,Bus,60,55,Foggy,2
+Downtown,Morning Peak,Bike,47,56,Windy,0
+Industrial Area,Evening Peak,Car,29,47,Windy,2
+Industrial Area,Morning Peak,Truck,166,47,Sunny,1
+Airport Rd,Morning Peak,Bus,188,61,Foggy,2
+Tech Park,Morning Peak,Car,141,62,Foggy,0
+Tech Park,Afternoon,Bus,64,40,Windy,2
+Mall Rd,Night,Car,101,43,Sunny,1
+Airport Rd,Evening Peak,Car,37,61,Foggy,1
+Airport Rd,Evening Peak,Bus,13,79,Windy,0
+Airport Rd,Afternoon,Truck,159,59,Rainy,2
+Airport Rd,Night,Car,85,21,Sunny,2
+Tech Park,Evening Peak,Car,182,74,Rainy,2
+Tech Park,Morning Peak,Car,76,27,Sunny,1
+Airport Rd,Evening Peak,Truck,95,67,Windy,0
+Mall Rd,Morning Peak,Truck,171,46,Foggy,2
+Downtown,Afternoon,Bike,100,41,Foggy,1
+Downtown,Morning Peak,Bus,192,56,Foggy,1
+Mall Rd,Evening Peak,Truck,114,46,Sunny,1
+Airport Rd,Evening Peak,Bus,10,76,Windy,2
+Tech Park,Evening Peak,Bike,81,48,Rainy,2
+Downtown,Afternoon,Bus,96,22,Windy,2
+Industrial Area,Afternoon,Truck,175,63,Rainy,2
+Industrial Area,Night,Bus,15,32,Sunny,2
+Mall Rd,Evening Peak,Truck,162,64,Sunny,2
+Airport Rd,Morning Peak,Bus,154,29,Rainy,2
+Downtown,Afternoon,Truck,70,55,Rainy,2
+Airport Rd,Evening Peak,Truck,21,28,Rainy,2
+Downtown,Evening Peak,Bus,15,73,Windy,1
+Mall Rd,Afternoon,Bike,36,75,Rainy,2
+Mall Rd,Night,Car,145,74,Sunny,0
+Industrial Area,Afternoon,Bike,133,46,Sunny,1
+Airport Rd,Afternoon,Bus,115,53,Foggy,2
+Industrial Area,Morning Peak,Bike,194,70,Rainy,0
+Airport Rd,Morning Peak,Truck,102,20,Windy,2
+Industrial Area,Night,Car,118,51,Windy,0
+Tech Park,Evening Peak,Bus,108,44,Windy,0
+Tech Park,Afternoon,Bus,177,48,Foggy,0
+Tech Park,Night,Bus,151,26,Sunny,0
+Tech Park,Morning Peak,Car,44,68,Windy,1
+Downtown,Afternoon,Truck,185,22,Sunny,1
+Tech Park,Evening Peak,Bus,93,39,Foggy,0
+Mall Rd,Morning Peak,Bike,65,39,Rainy,2
+Mall Rd,Morning Peak,Bus,186,72,Rainy,0
+Downtown,Morning Peak,Bus,150,49,Rainy,1
+Tech Park,Night,Bus,198,54,Windy,2
+Tech Park,Evening Peak,Bus,58,54,Rainy,1
+Tech Park,Afternoon,Truck,55,68,Windy,1
+Industrial Area,Night,Bike,122,58,Foggy,2
+Airport Rd,Night,Truck,199,46,Foggy,0
+Industrial Area,Night,Bike,145,45,Windy,0
+Airport Rd,Morning Peak,Bus,52,33,Sunny,0
+Tech Park,Evening Peak,Car,157,36,Rainy,0
+Tech Park,Night,Truck,133,37,Rainy,2
+Industrial Area,Afternoon,Car,106,64,Rainy,2
+Industrial Area,Evening Peak,Truck,99,71,Windy,2
+Airport Rd,Afternoon,Bus,48,48,Foggy,1
+Mall Rd,Evening Peak,Truck,94,39,Rainy,2
+Airport Rd,Afternoon,Bus,186,72,Foggy,0
+Industrial Area,Morning Peak,Truck,71,46,Rainy,1
+Industrial Area,Night,Bus,115,37,Rainy,0
+Downtown,Afternoon,Bus,116,23,Windy,0
+Industrial Area,Evening Peak,Bike,63,20,Sunny,2
+Downtown,Night,Bus,135,69,Windy,2
+Mall Rd,Night,Bike,18,20,Rainy,0
+Airport Rd,Evening Peak,Bus,97,77,Rainy,0
+Airport Rd,Afternoon,Car,46,45,Sunny,1
+Downtown,Morning Peak,Bus,58,64,Foggy,2
+Airport Rd,Morning Peak,Car,50,39,Foggy,1
+Industrial Area,Afternoon,Car,26,71,Rainy,1
+Tech Park,Night,Bus,97,42,Foggy,1
+Downtown,Night,Car,30,29,Rainy,0
+Airport Rd,Night,Bike,60,78,Sunny,1
+Downtown,Night,Truck,68,30,Sunny,1
+Downtown,Afternoon,Bus,176,60,Rainy,0
+Tech Park,Night,Car,192,60,Sunny,2
+Industrial Area,Evening Peak,Bus,50,24,Windy,2
+Downtown,Night,Bike,48,77,Windy,1
+Airport Rd,Morning Peak,Bus,150,20,Sunny,0
+Mall Rd,Night,Bus,20,36,Rainy,2
+Downtown,Afternoon,Car,156,41,Rainy,1
+Downtown,Morning Peak,Bike,148,53,Sunny,1
+Tech Park,Afternoon,Truck,86,75,Foggy,0
+Industrial Area,Afternoon,Truck,136,64,Windy,1
+Mall Rd,Morning Peak,Car,55,60,Foggy,2
+Airport Rd,Afternoon,Bus,54,48,Rainy,0
+Mall Rd,Afternoon,Car,10,23,Rainy,2
+Airport Rd,Night,Car,177,24,Foggy,2
+Industrial Area,Evening Peak,Car,117,30,Sunny,2
+Airport Rd,Afternoon,Bus,28,75,Foggy,1
+Tech Park,Afternoon,Bike,85,70,Foggy,1
+Tech Park,Afternoon,Car,81,40,Windy,2
+Tech Park,Night,Bus,198,54,Windy,2
+Tech Park,Evening Peak,Bike,118,31,Foggy,0
+Mall Rd,Morning Peak,Car,21,45,Foggy,0
+Industrial Area,Night,Truck,198,70,Rainy,1
+Airport Rd,Night,Bike,170,38,Windy,1
+Airport Rd,Evening Peak,Car,54,64,Windy,0
+Tech Park,Evening Peak,Bike,99,79,Rainy,2
+Tech Park,Night,Bike,112,26,Sunny,1
+Downtown,Morning Peak,Bike,17,66,Windy,2
+Industrial Area,Night,Bike,162,74,Windy,0
+Mall Rd,Evening Peak,Bike,100,26,Sunny,1
+Airport Rd,Morning Peak,Bike,183,45,Windy,1
+Downtown,Evening Peak,Car,96,59,Windy,0
+Downtown,Morning Peak,Truck,167,24,Sunny,1
+Airport Rd,Afternoon,Bus,184,40,Sunny,0
+Mall Rd,Evening Peak,Bike,186,33,Foggy,1
+Downtown,Evening Peak,Bus,184,23,Rainy,0
+Downtown,Night,Car,93,42,Rainy,1
+Industrial Area,Evening Peak,Bike,91,61,Sunny,2
+Mall Rd,Evening Peak,Truck,155,39,Sunny,2
+Downtown,Afternoon,Bus,77,34,Windy,2
+Mall Rd,Evening Peak,Bike,170,69,Foggy,1
+Airport Rd,Afternoon,Car,136,71,Foggy,1
+Tech Park,Afternoon,Truck,173,64,Sunny,2
+Downtown,Afternoon,Bus,91,48,Windy,2
+Industrial Area,Afternoon,Bus,156,27,Windy,0
+Airport Rd,Morning Peak,Bike,165,60,Rainy,0
+Mall Rd,Night,Truck,177,67,Rainy,0
+Airport Rd,Morning Peak,Truck,93,38,Windy,2
+Downtown,Evening Peak,Truck,122,67,Rainy,2
+Mall Rd,Morning Peak,Truck,85,58,Sunny,2
+Tech Park,Morning Peak,Car,131,65,Windy,0
+Airport Rd,Evening Peak,Truck,152,47,Rainy,1
+Downtown,Evening Peak,Bus,50,65,Foggy,2
+Industrial Area,Evening Peak,Bus,176,76,Windy,1
+Mall Rd,Morning Peak,Car,11,46,Windy,1
+Airport Rd,Morning Peak,Bus,38,23,Foggy,1
+Airport Rd,Evening Peak,Bus,114,77,Sunny,0
+Tech Park,Night,Truck,60,34,Foggy,1
+Tech Park,Night,Bus,84,54,Windy,2
+Industrial Area,Afternoon,Car,19,56,Sunny,0
+Industrial Area,Evening Peak,Truck,151,20,Rainy,2
+Downtown,Afternoon,Bike,60,22,Rainy,2
+Downtown,Night,Truck,127,66,Rainy,0
+Industrial Area,Afternoon,Car,130,43,Windy,2
+Industrial Area,Evening Peak,Truck,48,46,Foggy,2
+Mall Rd,Evening Peak,Truck,37,59,Sunny,0
+Tech Park,Evening Peak,Car,12,55,Rainy,2
+Downtown,Morning Peak,Truck,93,53,Sunny,1
+Tech Park,Afternoon,Car,164,48,Windy,2
+Tech Park,Night,Car,126,43,Rainy,1
+Industrial Area,Night,Bike,11,43,Windy,2
+Mall Rd,Night,Bus,102,61,Foggy,0
+Airport Rd,Morning Peak,Bus,175,23,Windy,0
+Mall Rd,Morning Peak,Truck,140,22,Windy,2
+Mall Rd,Evening Peak,Truck,153,53,Foggy,0
+Tech Park,Night,Bike,103,76,Sunny,2
+Mall Rd,Morning Peak,Bike,49,68,Foggy,0
+Downtown,Evening Peak,Bike,11,42,Foggy,1
+Tech Park,Night,Car,90,72,Windy,2
+Downtown,Afternoon,Bike,178,75,Sunny,1
+Airport Rd,Evening Peak,Bike,21,71,Rainy,1
+Tech Park,Morning Peak,Truck,172,42,Foggy,2
+Airport Rd,Morning Peak,Bike,74,64,Sunny,1
+Tech Park,Evening Peak,Car,64,24,Foggy,2
+Industrial Area,Evening Peak,Car,54,50,Foggy,1
+Mall Rd,Morning Peak,Truck,110,72,Foggy,2
+Industrial Area,Afternoon,Bike,71,60,Foggy,2
+Airport Rd,Night,Bike,58,76,Windy,0
+Mall Rd,Afternoon,Car,136,76,Sunny,2
+Tech Park,Evening Peak,Bike,162,79,Sunny,2
+Mall Rd,Afternoon,Bike,32,73,Sunny,1
+Downtown,Morning Peak,Bike,161,25,Foggy,2
+Mall Rd,Evening Peak,Bus,47,56,Windy,0
+Downtown,Night,Truck,37,76,Foggy,1
+Mall Rd,Morning Peak,Bus,30,29,Foggy,1
+Downtown,Morning Peak,Truck,191,59,Sunny,0
+Airport Rd,Night,Car,116,26,Foggy,1
+Industrial Area,Night,Bike,155,58,Rainy,1
+Tech Park,Afternoon,Truck,173,57,Foggy,1
+Mall Rd,Evening Peak,Bus,108,40,Rainy,1
+Industrial Area,Night,Bike,182,39,Foggy,0
+Tech Park,Night,Car,128,22,Windy,0
+Tech Park,Evening Peak,Truck,82,70,Windy,1
+Downtown,Night,Truck,190,41,Sunny,1
+Airport Rd,Night,Truck,131,66,Foggy,0
+Airport Rd,Afternoon,Bike,39,23,Rainy,0
+Industrial Area,Morning Peak,Bus,197,47,Rainy,0
+Airport Rd,Morning Peak,Bus,117,31,Foggy,1
+Mall Rd,Morning Peak,Truck,107,57,Rainy,1
+Airport Rd,Morning Peak,Car,41,70,Windy,2
+Industrial Area,Night,Car,165,55,Rainy,0
+Airport Rd,Evening Peak,Bus,181,66,Sunny,1
+Mall Rd,Evening Peak,Car,88,60,Windy,0
+Downtown,Afternoon,Bus,50,24,Windy,1
+Industrial Area,Afternoon,Truck,72,32,Windy,0
+Downtown,Night,Bus,32,42,Foggy,1
+Downtown,Evening Peak,Bus,113,77,Foggy,2
+Downtown,Evening Peak,Truck,84,69,Windy,2
+Tech Park,Morning Peak,Car,57,49,Foggy,0
+Tech Park,Night,Bus,169,56,Rainy,1
+Downtown,Night,Bus,66,44,Foggy,1
+Industrial Area,Morning Peak,Truck,127,67,Foggy,0
+Mall Rd,Night,Car,109,46,Windy,1
+Mall Rd,Night,Bus,133,70,Sunny,0
+Airport Rd,Afternoon,Truck,170,33,Sunny,1
+Industrial Area,Evening Peak,Bus,161,76,Sunny,0
+Tech Park,Night,Bike,176,67,Rainy,1
+Downtown,Afternoon,Truck,43,78,Foggy,0
+Airport Rd,Evening Peak,Car,193,66,Sunny,1
+Mall Rd,Morning Peak,Car,165,73,Windy,2
+Tech Park,Afternoon,Car,174,55,Sunny,1
+Tech Park,Afternoon,Car,16,58,Sunny,0
+Downtown,Evening Peak,Bus,174,35,Foggy,2
+Mall Rd,Morning Peak,Bus,65,75,Foggy,1
+Industrial Area,Afternoon,Car,74,41,Foggy,2
+Tech Park,Night,Car,56,40,Rainy,1
+Downtown,Night,Car,157,73,Rainy,2
+Industrial Area,Night,Bus,28,40,Sunny,0
+Mall Rd,Morning Peak,Car,166,27,Foggy,1
+Tech Park,Afternoon,Car,197,68,Sunny,1
+Industrial Area,Night,Bike,155,35,Windy,0
+Industrial Area,Morning Peak,Bike,172,78,Windy,2
+Industrial Area,Night,Car,180,74,Foggy,0
+Tech Park,Evening Peak,Truck,135,50,Foggy,0
+Tech Park,Afternoon,Car,148,61,Windy,2
+Airport Rd,Afternoon,Bike,58,29,Foggy,0
+Mall Rd,Morning Peak,Truck,122,51,Rainy,1
+Downtown,Morning Peak,Truck,47,78,Rainy,1
+Industrial Area,Afternoon,Car,73,53,Foggy,1
+Airport Rd,Night,Bike,78,28,Windy,0
+Downtown,Night,Bike,145,36,Sunny,1
+Airport Rd,Evening Peak,Truck,171,30,Foggy,1
+Tech Park,Night,Car,185,51,Foggy,1
+Industrial Area,Morning Peak,Bus,125,29,Sunny,1
+Downtown,Morning Peak,Bus,193,41,Foggy,1
+Downtown,Night,Bike,74,76,Sunny,1
+Downtown,Morning Peak,Bus,40,36,Windy,0
+Downtown,Afternoon,Bike,141,23,Rainy,1
+Downtown,Afternoon,Bike,122,67,Windy,1
+Airport Rd,Night,Bike,118,71,Rainy,2
+Industrial Area,Afternoon,Bus,187,66,Sunny,0
+Tech Park,Afternoon,Bike,78,44,Rainy,0
+Tech Park,Evening Peak,Truck,167,78,Windy,0
+Tech Park,Evening Peak,Car,129,40,Rainy,0
+Tech Park,Afternoon,Car,97,56,Sunny,1
+Airport Rd,Night,Bike,196,57,Rainy,1
+Mall Rd,Evening Peak,Car,76,68,Foggy,2
+Industrial Area,Morning Peak,Bus,84,20,Windy,2
+Downtown,Morning Peak,Bus,54,44,Foggy,0
+Mall Rd,Morning Peak,Car,13,70,Sunny,2
+Tech Park,Night,Bus,163,55,Rainy,2
+Mall Rd,Afternoon,Car,164,36,Foggy,0
+Industrial Area,Morning Peak,Car,183,60,Foggy,0
+Downtown,Night,Car,116,43,Rainy,2
+Downtown,Evening Peak,Bike,60,21,Rainy,1
+Industrial Area,Afternoon,Car,59,59,Windy,2
+Industrial Area,Evening Peak,Bike,15,34,Foggy,2
+Tech Park,Night,Car,68,51,Foggy,1
+Downtown,Morning Peak,Car,134,58,Sunny,1
+Mall Rd,Morning Peak,Car,152,78,Windy,0
+Airport Rd,Night,Bus,39,25,Sunny,0
+Airport Rd,Morning Peak,Bike,179,20,Foggy,2
+Industrial Area,Afternoon,Bike,131,66,Sunny,1
+Tech Park,Night,Car,134,42,Foggy,0
+Airport Rd,Evening Peak,Car,46,77,Foggy,2
+Downtown,Night,Bus,179,58,Sunny,1
+Industrial Area,Afternoon,Bus,133,76,Sunny,2
+Mall Rd,Afternoon,Bus,110,36,Rainy,0
+Industrial Area,Night,Bike,44,53,Rainy,0
+Mall Rd,Night,Bike,96,78,Rainy,1
+Industrial Area,Morning Peak,Bike,143,60,Foggy,2
+Industrial Area,Afternoon,Car,27,48,Sunny,1
+Industrial Area,Night,Bike,122,28,Windy,0
+Mall Rd,Night,Truck,38,32,Foggy,0
+Mall Rd,Afternoon,Truck,86,25,Windy,2
+Industrial Area,Night,Bus,68,25,Sunny,2
+Airport Rd,Morning Peak,Bike,184,39,Foggy,2
+Tech Park,Afternoon,Truck,135,71,Windy,1
+Tech Park,Morning Peak,Bus,154,72,Windy,2
+Tech Park,Morning Peak,Bike,118,22,Rainy,2
+Mall Rd,Morning Peak,Car,31,36,Rainy,0
+Mall Rd,Morning Peak,Truck,77,68,Rainy,0
+Airport Rd,Afternoon,Car,78,31,Foggy,2
+Tech Park,Morning Peak,Bike,174,67,Sunny,2
+Tech Park,Morning Peak,Truck,58,66,Sunny,0
+Industrial Area,Night,Bike,150,64,Rainy,2
+Mall Rd,Afternoon,Car,171,74,Rainy,1
+Tech Park,Afternoon,Truck,118,20,Rainy,1
+Airport Rd,Evening Peak,Car,95,36,Windy,1
+Airport Rd,Afternoon,Bike,62,22,Rainy,2
+Tech Park,Afternoon,Bike,132,45,Windy,0
+Mall Rd,Evening Peak,Car,96,34,Sunny,2
+Airport Rd,Afternoon,Truck,188,55,Foggy,2
+Industrial Area,Afternoon,Car,140,51,Foggy,0
+Airport Rd,Afternoon,Bike,51,51,Foggy,0
+Downtown,Afternoon,Car,107,23,Foggy,0
+Downtown,Evening Peak,Bike,169,37,Windy,1
+Mall Rd,Afternoon,Car,118,68,Windy,2
+Tech Park,Afternoon,Truck,60,38,Rainy,0
